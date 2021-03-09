@@ -3,7 +3,7 @@
         "declaration": true,
         "module": "commonjs",
         "outDir": "./built",
-        "allowJs": true,
+        "strict": true,
         "target": "es6"
     },
     "include": [
